@@ -11,6 +11,19 @@ Auteur : [Cryptanalyse](https://twitter.com/Cryptanalyse)
 Origine : [Armory](https://hackropole.fr/fr/challenges/pwn/fcsc2019-pwn-armory/)
 
 
+
+## Connectez vous en WEBSSH
+> http://localhost
+
+#### tentez 
+> nc armory.cyrhades.fr:4000
+
+
+-----------
+
+## Ou directement avec netcat
+> nc localhost:4000
+
 -----------
 
 ## Installation manuel
